@@ -1,0 +1,8 @@
+.item img{
+    height: 100px;
+    width: 100px;
+}
+.work img{
+    height: 500px;
+    width: auto;
+}
