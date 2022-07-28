@@ -110,29 +110,3 @@
     }
 
 }
-/* header end */
-/* discover section media start */
-@media (max-width: 576px){
-    .menu{
-        
-    }
-}
-/* discover section media end */
-@media (max-width: 576px){
-    .works{
-        width: 100%;
-    }
-    .work{
-        width: 50%;
-        
-    }
-    .work img{
-       width: 100%;
-       
-    }
-}
-@media (min-width: 577px) and (max-width: 768px){
-    
-    
-
-}
